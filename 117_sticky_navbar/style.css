@@ -68,7 +68,7 @@ body {
 }
 
 .hero {
-  background-image: url('https://pixabay.com/get/g1d938716bbf9336aa7d385ae807dc1a7087b19051822fc9b792db5608d93e97ffe01fc8886461bfd75410e5155fbb173_1920.jpg');
+  background-image: url('earth.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -117,12 +117,12 @@ body {
 }
 
 .img {
-  max-width: 500px;
+  max-width: 700px;
   margin: 25px auto;
-
-}
-
-.img img{
   width: 100%;
+  min-height: 400px;
   border-radius: 25px;
+  background: url('ufo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
